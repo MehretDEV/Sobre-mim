@@ -1,0 +1,47 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://cdn.discordapp.com/attachments/1186518816189055093/1189955987763892414/background.jpg?ex=65a00bdf&is=658d96df&hm=c499832d739c8ab438970a26bce84228e44525e0260438426e291a3e489adfeb&'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+    color: rgb(30, 235, 115); /* Mudar a cor do texto para branco */
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Estilos para o conteúdo principal */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Estilos para a seção "Sobre Mim" */
+section {
+    margin-bottom: 20px;
+}
+
+/* Estilos para os títulos */
+h1, h2 {
+    margin-bottom: 10px;
+}
+
+/* Estilos para os parágrafos */
+p {
+    line-height: 1.6;
+}
+
+#nome {
+    color: #000000; /* Mudar a cor do nome para laranja (#FFA500) */
+}
+
+#hs {
+    color: #000000; /* Mudar a cor do nome para laranja (#FFA500) */
+}
